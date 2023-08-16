@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yovirian
 - 👀 I’m interested in data structure and algorithm
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me atharvasadhankar@outlook.com
 
