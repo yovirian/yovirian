@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yovirian
+- 👋 Hi, I’m @atharva
 - 👀 I’m interested in data structure and algorithm
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on anything  
